@@ -150,11 +150,13 @@ data:
 
 
 
-[Let's Encrypt]:https://letsencrypt.org
-[ConfigMap]: ./nginx-configuration/configmap.md
-[ssl-ciphers]: ./nginx-configuration/configmap.md#ssl-ciphers
-[SNI]: https://en.wikipedia.org/wiki/Server_Name_Indication
-[mozilla-ssl-config-old]: https://ssl-config.mozilla.org/#server=nginx&config=old
-[cert-manager]: https://github.com/jetstack/cert-manager/
-[full-cert-manager-example]:https://cert-manager.io/docs/tutorials/acme/nginx-ingress/
-[cert-manager-issuer-config]:https://cert-manager.io/docs/configuration/
+## References:
+
+1. [Let's Encrypt](https://letsencrypt.org)
+2. [ConfigMap](./nginx-configuration/configmap.md)
+3. [ssl-ciphers](./nginx-configuration/configmap.md#ssl-ciphers)
+4. [SNI](https://en.wikipedia.org/wiki/Server_Name_Indication)
+5. [mozilla-ssl-config-old](https://ssl-config.mozilla.org/#server=nginx&config=old)
+6. [cert-manager](https://github.com/jetstack/cert-manager/)
+7. [full-cert-manager-example](https://cert-manager.io/docs/tutorials/acme/nginx-ingress/)
+8. [cert-manager-issuer-config](https://cert-manager.io/docs/configuration/)
